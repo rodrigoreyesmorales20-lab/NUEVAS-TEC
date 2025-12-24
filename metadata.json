@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Elite Performance Rater",
+  "description": "A dark-themed, sporty performance rating app using Supabase for persistence and Gemini for coach insights.",
+  "requestFramePermissions": []
+}
